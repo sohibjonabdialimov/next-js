@@ -1,4 +1,7 @@
 import Link from "next/link";
+export const metadata = {
+  title: "About Page"
+}
 
 export default function Home() {
   return (
